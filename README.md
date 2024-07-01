@@ -2,4 +2,6 @@
 
 Kjøres med node.js
 
-> node dagPenger.js
+```javascript
+node dagPenger.js
+```
